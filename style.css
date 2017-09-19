@@ -1,4 +1,4 @@
-li {
+.navigation li {
     display: inline;
     padding: 10px;
 }
@@ -24,7 +24,6 @@ h1, h3 {
     border-top: 2px solid grey;
     padding-top: 20px;
     padding-bottom: 20px;
-   
 }
 
 .indent-rigth h5,
@@ -53,7 +52,7 @@ h1, h3 {
 
 .center-align {
     position: relative;
-    left: 47%;
+    left: 42%;
 }
 
 form {
